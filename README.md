@@ -10,3 +10,6 @@ Disclaimer⚠️:-
 6.You will not distribute or share the tools or information provided here without proper authorization.
 7.You will not hold the repository maintainers or contributors liable for any damages or consequences resulting from the use of these tools.
 8.Use these tools responsibly and ethically. Always ensure that you have the necessary authorization before conducting any security testing.
+
+Important Note⚠️:-
+All used tools link in this repository credit has been given.
