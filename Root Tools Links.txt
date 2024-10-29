@@ -1,0 +1,5 @@
+1.Hiping(No Link Available Yet[Uploaded Soon])
+2.Nmap:-(https://www.learntermux.tech/2020/10/Install-Use-Nmap-Termux.html?m=1)
+3.Rudy(No Link Available Yet[Uploaded Soon])
+4.Metasploit(https://github.com/gushmazuko/metasploit_in_termux)
+5.Torshammer(https://github.com/Karlheinzniebuhr/torshammer)
