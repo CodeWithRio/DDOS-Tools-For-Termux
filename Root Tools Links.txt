@@ -3,3 +3,5 @@
 3.Rudy(No Link Available Yet[Uploaded Soon])
 4.Metasploit(https://github.com/gushmazuko/metasploit_in_termux)
 5.Torshammer(https://github.com/Karlheinzniebuhr/torshammer)
+6.SQLmap(https://github.com/sqlmapproject/sqlmap)
+7.Hydra(https://github.com/naveensanjula975/T-HYDRA)
