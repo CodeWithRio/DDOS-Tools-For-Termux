@@ -1,3 +1,5 @@
 Credit Of Torshammer: Github:- Karlheinziebuhr
 Credit Of Metasploit: Github:- dedshit
 Credit Of Nmap: Website:- https://www.learntermux.tech/
+Credit Of Hydra: Github:- isuruwa
+Credit Of SQLmap: Github:- stamparm
