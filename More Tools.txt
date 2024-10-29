@@ -6,4 +6,8 @@ To Install Low Orbit Ion Cannon:-
 2.git clone https://github.com/jseidl/LOIC.git
 3.cd LOIC
 4.python LOIC.py
-To Install 
+To Install Ddosim:-
+1.pkg install python
+2.git clone https://github.com/gwen001/ddosim.git
+3.cd ddosim
+4.python ddosim.py
