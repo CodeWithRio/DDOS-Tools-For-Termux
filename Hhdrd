@@ -1,0 +1,9 @@
+First Run This On Your Terminal:-
+1.pkg update && pkg upgrade
+2.pkg install git
+To Install Low Orbit Ion Cannon:-
+1.pkg install python
+2.git clone https://github.com/jseidl/LOIC.git
+3.cd LOIC
+4.python LOIC.py
+To Install 
